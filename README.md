@@ -86,5 +86,3 @@
     &copy; 2025 Portofolio Saya. All rights reserved.
 </footer>
 
-</body>
-</html>
